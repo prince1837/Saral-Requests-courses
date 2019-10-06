@@ -1,5 +1,5 @@
 # Requests-API-courses
-how can we request to server to take a DATA
+how can we request to server to take a DATA 
 ## In python
 
 ### Python-Requests-API
